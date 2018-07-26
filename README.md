@@ -1,2 +1,2 @@
 # GLTransitions
-一些GL专场动画特效
+一些GL转场动画特效
